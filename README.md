@@ -21,7 +21,7 @@ A beautiful, feature-complete Tetris game that runs directly in your terminal! B
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone git@github.com:nudelx/terminal-tetris.git
 cd tetris
 
 # Run the game (no installation needed!)
