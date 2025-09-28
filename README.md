@@ -6,6 +6,10 @@ A beautiful, feature-complete Tetris game that runs directly in your terminal! B
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js)
 ![No Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen?style=for-the-badge)
 
+## 🎮 Screenshots
+
+<img src="https://github.com/nudelx/terminal-tetris/blob/main/img/img1.png" />
+
 ## ✨ Features
 
 - 🎨 **Colorful Graphics** - Beautiful colored blocks with ANSI color support
@@ -110,10 +114,6 @@ All 7 classic pieces with unique colors:
 - **Fast**: 60fps game loop with efficient rendering
 - **Responsive**: Immediate input handling
 - **Memory Efficient**: Minimal memory footprint
-
-## 🎮 Screenshots
-
-<img src="https://github.com/nudelx/terminal-tetris/blob/main/img/img1.png" />
 
 ## 🤝 Contributing
 
